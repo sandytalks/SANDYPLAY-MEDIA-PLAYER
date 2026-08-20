@@ -621,7 +621,7 @@ SANDYPLAY/
 
 ## 📄 License
 
-**MIT License** — Copyright © 2026 Sandytalks
+**G License** — Copyright © 2026 Sandytalks
 
 <sub>Third-party: VLC (LGPL) · FFmpeg (LGPL/GPL) · Whisper (MIT) · PyQt6 (GPL) · yt-dlp (Unlicense) · Dolby.io · Gemini API · GoodbyeDPI (MIT)</sub>
 
