@@ -1,6 +1,4 @@
 <div align="center">
-
-  <img src="app_icon.png" alt="SANDYPLAY Logo" width="130" height="130">
   
   <h1>SANDYPLAY Media Player</h1>
   
